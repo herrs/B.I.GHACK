@@ -1,0 +1,1 @@
+"pack","bibliometrix", "tidyverse", "ggplot2", "plotly","stringr", "pubmedR", "data.table", "networkDynamic", "igraph", "statnet", "intergraph", "visNetwork", "devtools", "reshape2", "qdap", "tm", "SnowballC", "wordcloud", "RColorBrewer", "Rcpp" 
